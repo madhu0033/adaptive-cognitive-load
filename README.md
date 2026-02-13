@@ -77,3 +77,4 @@ If you want to re-train the model with synthetic or real data:
 2.  **Tracking**: Move your mouse or enable the webcam.
 3.  **Teacher**: Open another tab at the same URL and click **"👨‍🏫 Teacher Dashboard"** at the top.
 4.  **Finish**: Click **"⏹ Stop"** on the student view to provide a self-report label.
+"# adaptive-cognitive-load" 
