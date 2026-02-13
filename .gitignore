@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+coverage/
+.vscode/
+venv/
+saved_models/
+
